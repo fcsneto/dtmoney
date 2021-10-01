@@ -14,8 +14,9 @@ createServer({
             title: 'Transaction 1',
             amount: 400,
             type: 'deposit',
-            category: 'Food',
+            category: 'Foody',
             createdAt: new Date()
+
          }
        ]
      })
